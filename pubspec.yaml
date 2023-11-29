@@ -1,7 +1,7 @@
 name: flutter_sample_sdk
-description: "A new Flutter project."
-version: 0.0.1
-homepage:
+description: "Sample flutter sdk"
+version: 1.0.0
+homepage: https://github.com/faranjaved502/flutter_sample_sdk.git
 
 environment:
   sdk: '>=3.2.0 <4.0.0'
