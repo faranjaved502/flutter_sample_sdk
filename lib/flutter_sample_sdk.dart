@@ -6,7 +6,7 @@ class CustomButton extends StatelessWidget {
   var onPressed;
   final Widget child;
   var style;
-  CustomButton({required Key key, @required this.onPressed, required this.child, this.style})
+  CustomButton({Key? key, @required this.onPressed,  required this.child, this.style})
       : super(key: key);
 
   @override
