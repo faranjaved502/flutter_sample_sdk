@@ -1,4 +1,4 @@
 
 
-## [version] - Date
-* explanations about changes.
+## [1.0.0] - Date
+* Just the initial version of the package.
